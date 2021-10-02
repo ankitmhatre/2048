@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="light_blue_600">#FF039BE5</color>
-    <color name="light_blue_900">#FF01579B</color>
-    <color name="light_blue_A200">#FF40C4FF</color>
-    <color name="light_blue_A400">#FF00B0FF</color>
-    <color name="black_overlay">#66000000</color>
+    <color name="colorPrimary">#FFF</color>
+    <color name="colorPrimaryDark">#FFF</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="tileColor0">#e6ffff</color>
+    <color name="tileColor1">#ede3da</color> <!-- 2 -->
+    <color name="tileColor2">#eddfc8</color> <!-- 4 -->
+    <color name="tileColor3">#f1b178</color> <!-- 8 -->
+    <color name="tileColor4">#f59562</color> <!-- 16 -->
+    <color name="tileColor5">#f57c5f</color> <!-- 32 -->
+    <color name="tileColor6">#f55e3a</color> <!-- 64 -->
+    <color name="tileColor7">#edcf72</color> <!-- 128 -->
+    <color name="tileColor8">#edcc61</color> <!-- 256 -->
+    <color name="tileColor9">#edc750</color> <!-- 512 -->
+    <color name="tileColor10">#edc43f</color> <!-- 1024 -->
+    <color name="tileColor11">#edc22d</color> <!-- 2048 -->
+
+    <color name="textColor0">#000000</color>
+    <color name="textColor1">#000000</color>
+    <color name="textColor2">#000000</color>
+    <color name="textColor3">#FFF</color>
+    <color name="textColor4">#FFF</color>
+    <color name="textColor5">#FFF</color>
+    <color name="textColor6">#FFF</color>
+    <color name="textColor7">#FFF</color>
+    <color name="textColor8">#ffffff</color>
+    <color name="textColor9">#ffffff</color>
+    <color name="textColor10">#FFF</color>
+    <color name="textColor11">#ffffff</color>
 </resources>
